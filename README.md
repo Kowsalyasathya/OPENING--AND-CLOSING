@@ -19,8 +19,11 @@ Apply the Closing operation using cv2.morphologyEx() with the cv2.MORPH_CLOSE fl
 
  
 ## Program:
+
 ### Developed by : KOWSALYA M
+
 ### Reg.no :212222230069
+
 ```
 # Import the necessary packages
 import cv2
@@ -56,6 +59,7 @@ cv2.destroyAllWindows()
 ### Display the result of Opening:
 
 ![image](https://github.com/user-attachments/assets/86046256-7639-4996-92ed-26cd44f2d98d)
+
 
 
 ### Display the result of Closing
